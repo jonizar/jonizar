@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonizar
 - 👀 I’m interested in visual design and programming
 - 🌱 I’m currently learning programming after focused on design
-- 💞️ Now i'm design microservice with Java Quarkus
+- 💞️ Now i'm design backend microservice with Java Quarkus and front end with react js
 - 📫 inbox me : jonizar15@gmail.com
 
 <!---
